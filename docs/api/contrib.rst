@@ -108,10 +108,3 @@ Sharpness aware minimization
 .. autofunction:: sam
 .. autoclass:: SAMState
     :members:
-
-Sophia
-~~~~~~
-.. autofunction:: sophia
-.. autofunction:: scale_by_sophia
-.. autoclass:: SophiaState
-    :members:
